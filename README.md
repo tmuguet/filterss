@@ -24,3 +24,6 @@ $f->loadFromXml($xml)
     ->filter("keyword2");   // Keep only items containing keyword1 and keyword2
 echo $f->out();
 ```
+
+
+An online implementation is available at http://filterss.thomasmuguet.info .
